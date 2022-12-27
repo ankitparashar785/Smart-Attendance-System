@@ -22,6 +22,8 @@
 
 <img src="https://user-images.githubusercontent.com/62975799/209615711-aff9b024-676f-474d-b081-7623c99e5116.png"/>
 
+## Diagram
+![image](https://user-images.githubusercontent.com/62975799/209616067-0b06072d-60c3-4729-ba46-433302f086f6.png)
 
 
 
